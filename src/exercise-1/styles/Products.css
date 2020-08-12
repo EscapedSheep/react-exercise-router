@@ -1,0 +1,11 @@
+.productsLink a {
+    display: block;
+    text-decoration: none;
+    padding: 8px 16px;
+}
+
+.productsLink {
+    list-style-type: none;
+    width: 100px;
+
+}
